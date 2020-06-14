@@ -23,7 +23,7 @@ on Linux GCC or Clang, on Windows MSVC 2015/2017/2019 https://visualstudio.micro
 
 	Yolov3 
 
-# Sitios para descargar SVG
+# Sitios de aprendizaje
 
 En los ejemplos de este repositorio han sido descargados de los sitios siguientes:
 https://pjreddie.com/darknet/yolo/
