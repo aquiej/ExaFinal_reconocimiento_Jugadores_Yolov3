@@ -4,9 +4,9 @@ Nos permite detectar y predecir objetos en una imagen o video en tiempo real, ba
 
 A continuación se muestra un ejemplo del uso de Yolov3
 
-[![Face](/readme_image/prediccion1.PNG)](readme_image/prediccion1.PNG)
+[![Imagen 1](/readme_image/prediccion1.PNG)](readme_image/prediccion1.PNG)
 
-[![Face Api](/readme_image/prediccion2.PNG)](readme_image/prediccion2.PNG)
+[![Imagen 2](/readme_image/prediccion2.PNG)](readme_image/prediccion2.PNG)
 
 
 # Teconolgias usadas
