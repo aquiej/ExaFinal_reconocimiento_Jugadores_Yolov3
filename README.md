@@ -4,9 +4,9 @@ Nos permite detectar y predecir objetos en una imagen o video en tiempo real, ba
 
 A continuación se muestra un ejemplo del uso de Yolov3
 
-[![Face](/readme_image/prediccion1.PNG)](img/readme_image/prediccion1.PNG)
+[![Face](/readme_image/prediccion1.PNG)](readme_image/prediccion1.PNG)
 
-[![Face Api](/readme_image/prediccion2.PNG)](prediccion2.PNG)
+[![Face Api](/readme_image/prediccion2.PNG)](readme_image/prediccion2.PNG)
 
 
 # Teconolgias usadas
@@ -25,7 +25,7 @@ on Linux GCC or Clang, on Windows MSVC 2015/2017/2019 https://visualstudio.micro
 
 # Sitios para descargar SVG
 
-En los ejemplos de este repositorio se incluyen archivos SVG, estos han sido descargados de los sitios siguientes:
+En los ejemplos de este repositorio han sido descargados de los sitios siguientes:
 https://pjreddie.com/darknet/yolo/
 https://pjreddie.com/darknet/install/
 https://github.com/AlexeyAB/darknet
